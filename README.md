@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 
-This project is aimed at predicting customer churn using machine learning algorithms. The analysis uses several models, including Logistic Regression, Decision Tree Classifier, ** Random Forest Classifier (which achieved the best result with 84% accuracy) **, Support Vector Machine (SVM), and Artificial Neural Network.
+This project is aimed at predicting customer churn using machine learning algorithms. The analysis uses several models, including Logistic Regression, Decision Tree Classifier, **Random Forest Classifier (which achieved the best result with 84% accuracy)**, Support Vector Machine (SVM), and Artificial Neural Network.
 
 ## Dataset
 The analysis is based on a publicly available dataset from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). The dataset contains information about customers of a telecommunications company, including demographic information, services used, and whether they churned or not.
@@ -28,4 +28,5 @@ The project is divided into the following steps:
   - Handling imbalanced data using the `SMOTE` method
 - Test Train Split
 - Modeling and Evaluation
+
 Each step is explained in detail in the notebook.
